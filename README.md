@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile @joaopedrocosta2004.
-## My name is João Pedro Costa and I'm 19 years old!
+## My name is João Pedro Costa and I'm 20 years old!
 
 - 🔭 I'm currently studying at ISEC, taking my degree in computer engineering.
 - 🌱 I'm currently learning more about information systems and artificial intelligence.
